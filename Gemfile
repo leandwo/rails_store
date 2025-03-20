@@ -62,4 +62,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "net-smtp", "= 0.5.0"
+gem "net-smtp", "0.5.1"
